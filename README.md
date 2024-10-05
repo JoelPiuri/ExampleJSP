@@ -1,6 +1,8 @@
-##Aplicacion simple con JSP, Servlets y ORM
-#Grupo 1
-#Flujo general de la aplicación:
+# Aplicacion simple con JSP, Servlets y ORM
+
+## Grupo 1
+
+## Flujo general de la aplicación:
 -  El usuario interactúa con la página JSP a través de su navegador.
 -  La página JSP muestra un formulario para añadir usuarios y un botón para listar los usuarios existentes.
 -  Al hacer clic en el botón para listar usuarios o enviar el formulario para agregar un nuevo usuario, el Servlet procesa la solicitud y realiza las operaciones necesarias.
